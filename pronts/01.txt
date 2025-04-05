@@ -1,0 +1,15 @@
+Objetivo crear un erp para la gestion de una empresa
+1. Se usara como tecnología react.
+2. La base de datos debe ser configurable para que el usuario pueda cambiarla.
+3. Se usara un sistema de autenticación para el acceso a la aplicación.
+4. Será multiidioma.
+5. Sera diseñado con componentes reutilizables para la vista form y vista lista.
+6. Se creara en ingles y permitira agregar otros idiomas.
+7. Sera multicompany.
+8. tendra un crud de usuarios para poder crear usuarios y asignarles permisos.
+9. tendra un crud para compañias.
+10. Tendrá una pantalla inicial donde creara la base de datos y la empresa.
+11. Tendrá una pantalla para iniciar seesion.
+12. Tendrá una vista de dashboard.
+13. El estilo que usaremos será similiar a shopify.
+14. por defecto usaa slqite pero podemos usar cualquier base de datos.
