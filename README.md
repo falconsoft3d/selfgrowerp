@@ -20,4 +20,4 @@
 We’re currently looking for visionary investors and strategic partners who believe in the power of open source and the future of intelligent business management.  
 If you’re passionate about innovation and want to help shape the next generation of ERP systems, we’d love to connect.
 
-📩 Contact us at: **mfalconsoft@gmail.com**
+📩 Contact us at: **contact@selfgrowerp.com**
